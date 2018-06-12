@@ -1,0 +1,63 @@
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a><br>
+<a href='/classdetails/'> Class details</a><br>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+
+* Ukemi --- the art of receiving a technique
+
+#+CAPTION:Demo at Oxford University: Chas throws Giles
+file:../images/kotegaeshi.jpg"  
+
+One of the most controversial aspects of the martial arts.  How
+should the recipient of a technique react?  Taken too far one way, uke
+reels from every strike and flicks into the air at the first sign of a
+throw.  Too far the other way and tori is left with the choice of
+either doing it for real --- breaking joints and noses, or walking away
+shrugging.
+
+There's obviously no one correct answer.  With someone first
+learning a technique, uke may need to perform their side of the
+technique despite what tori is doing: manipulating their partner into
+performing the technique despite themselves.  Alternatively, uke may
+need to resist a technique; perhaps to demonstrate an inadequacy in
+the technique, or perhaps to discover for themselves whether or not
+the technique is effective.
+
+Away from these two extremes, my preference is for an active uke:
+probing the boundaries of the technique for weaknesses but
+acknowledging the actions of tori.  If uke is sufficiently responsive
+it is possible for tori to perform techniques with commitment and
+integrity whilst uke survives to return another day.
+
+Tori and uke form a partnership, both seeking to perform
+a martial art.  There is a need for a communication between the two in
+order to agree the manner in which to perform.  So how do you achieve
+that communication?
+
+In my view, there's no substitute for mat time.  But not just
+passively performing techniques.  If you find that you're being thrown
+easily, question it.  Try staying on your feet, moving beyond tori or
+just plain resisting.  Does the technique still work?  Don't believe
+in "... and now I would break your wrist" techniques.  Challenge them.
+It will hurt, but at the end of it you will know what works and what
+doesn't.  Alternatively, are you the uke that no one can throw?  Are
+you failing to be honest with your partner? Are you ignoring his two
+fingers hooked into your eye sockets?  Or attacking with a punch that
+never covers more than half the distance between you?
+
+Find a partner you trust. You are going to hurt each other, you
+need to both feel confident in the other.  Work through some of the
+basic techniques with full commitment from both sides.  Find out what
+works and what doesn't.  Once you've experienced and understood a committed
+technique, bring that feeling into your training when techniques are
+being performed at a lower intensity.
+
+And above all: smile!

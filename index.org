@@ -1,0 +1,49 @@
+
+
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<p class="current-page">Home</p>
+<a href='/classdetails/'> Class details</a>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+
+
+* Jujutsu in Warborough
+
+file:images/kneeling_nihonage.jpg
+
+Warborough Jujutsu Club is a martial arts club practicing a
+traditional Japanese martial art in the village of Warborough. We are
+a few miles south of Oxford, just outside Wallingford - See these
+[[file:classdetails/index.org][details]] for information on how to find the Warborough Jujutsu class.
+
+The martial art of jujutsu,also spelt jujitsu, is a forerunner to
+modern judo and aikido.  It has many different styles or schools.
+Although each style emphasises different aspects, all share a number
+of features.  The style we practice, Daiwa Ryu jujutsu is described in
+this [[file:blog/traditional.org][blog]] entry.  In brief, it shares a common ancestor with Aikido
+and Hakko Ryu.
+
+We are a small, enthusiastic group, some of whom have only recently
+started training in martial arts, others have been practising for
+decades.  All abilities are welcomed, but adults only.  This
+particular style of jujutsu is not suitable for children.  For
+those under eighteen I can recommend the [[http://www.iinkai-judo.co.uk/][Inkai Judo clubs]] --- my son
+trains with them!
+
+
+There are no specific beginner classes, just come along to one of our
+regular Tuesday night sessions.  Your first taster session is free, so
+you have nothing to lose.  From then on sessions are £5.00.
+
+If you're intending to visit I'd suggest that you drop an email to
+[[mailto:giles@jujutsu.org.uk][giles@jujutsu.org.uk]] as work commitments occasionally mean the class
+has to be cancelled if there is no instructor available.
+
+

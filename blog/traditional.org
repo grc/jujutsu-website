@@ -1,0 +1,61 @@
+# Originally written on Grand Cayman, as the sun goes down, 2004
+
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a><br>
+<a href='/classdetails/'> Class details</a><br>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+
+* Daiwa Ryu Jujutsu: a traditional martial art?
+
+I often refer to Daiwa Ryu Jujutsu as a traditional martial art.  But
+it was founded in 1979 --- barely three decades old.  So how can I
+justify that claim?
+
+First and foremost, this is not a claim that Daiwa Ryu is a koryu.
+Koryu are Japanese martial arts which can demonstrate their existance
+before the westernisation of Japan. This is frequently taken to be
+those martial arts known to be in existence before the introduction of
+the sword laws in 1867. Koryu tend to be taught in small, intimate
+groups.  The teaching is based on kata: a formalised set of attacks
+and responses.  The senior grade typically takes the role of attacker
+--- bad guy --- and is ultimately defeated.
+
+At the other end of the spectrum, there are many modern jujutsu styles
+which teach in a very different fashion.  In the UK, one example would
+be the [[http://www.jitsufoundation.org][Jitsu Foundation]].  These groups have adopted techniques and
+teaching styles for a different audience, with less emphasis on kata
+and more on contest and self defence applications.  For the Jitsu
+Foundation, and others, this has been hugely successful with clubs
+opening up all over the country and a large active membership
+
+So where does Daiwa Ryu fit in? The underlying curriculum is kata
+based: two people performing a predetermined series of movements to
+demonstrate a technique, and commit it to muscle memory. Attention is
+paid to the smallest details of the kata, a little finger turned out
+or a slight rotation of a joint all combine to allow the technique to
+be effective.  The kata we are practising is derived from [[http://www.hakkoryu.com][Hakko Ryu]]
+Jujutsu, in turn derived from one of the koryu: Daito Ryu.
+
+Classes are small --- typically a handful of people, with a high
+proportion of experienced practicioners.  This allows us to train with
+a high degree of attention to detail.  In turn, that attention to
+detail tends to discourage a number of beginners who are looking for a
+more dynamic approach.
+
+As well as our underlying lineage, we have other influences: the other
+martial arts which members of the club have studied.  Martial art
+schools differ in their approach to cross training in other martial
+arts.  Some actively discourage it, others, like us, are keen to
+welcome students of other styles and benefit from the different
+perspective.  So the Daiwa Ryu taught in [[file:../classdetails/index.org][Oxfordshire]] builds on the
+same underlying kata as Daiwa Ryu taught elsewhere, but is influenced
+by my own background in other martial arts: notably aikido, judo,
+other jujutsu styles and shorinji kempo.

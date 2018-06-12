@@ -1,0 +1,37 @@
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
+<p class="current-page">Blog</p>
+</div>
+#+END_EXPORT
+
+
+
+* Giles' jujutsu blog
+
+
+[[file:../images/kneeling_nidan.jpg]]
+
+Sporadic musings on a martial arts related theme.
+
+- [[file:dentokan.org][Dentokan Jujutsu]] :: A brief history of Dentokan Jujutsu in the
+     UK
+
+- [[file:traditional.org][Daiwa Ryu Jujutsu --- a traditional martial art?]] :: How can a modern
+     martial art be described as traditional?
+
+- [[file:jujitsu.org][Jujutsu, jujitsu --- what's the difference?]] :: A brief explanation
+     of the proliferation of spellings for this martial art.
+
+- [[file:itten_no_hi.org][Itten No Hi]] :: Concentrating on a single point of application.
+
+- [[file:grips.org][Grips]] :: Why spend all that time grabbing someone's wrist? Isn't it
+           totally ineffective?
+
+- [[file:ukemi.org][Ukemi]] :: Some thoughts on receiving techniques.
+

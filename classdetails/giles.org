@@ -1,0 +1,43 @@
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+
+
+* Giles Chamberlin
+
+[[file:../images/giles.jpg]]
+
+Giles Chamberlin is the chief instructor of the Warborough jujutsu
+club. Following a brief exposure to judo in the 1970's as a child, he
+took up the martial arts again at Bath University in 1980.  Here he
+studied judo at the university club and aikido with sensei Paul
+McGlone whilst studying in Poole.
+
+On leaving university in 1984, Giles moved to Ipswich, Suffolk where
+he started training with Sterling and Roy Jerry Hobbs.  Though
+concentrating mainly on Hakko Ryu, eventually attaining yondan, Giles
+also studied Kamishin Ryu and was awarded nidan in that style. When
+the Hobbs' left Suffolk, Giles supplemented his training with Daiwa
+Ryu jujutsu under Tanaka and Harada sensei at the Herringswell branch
+of the Shitenoji schools.  Together with Richard Pearman and Reg
+Siger, he was given permission to teach this art by Tanaka sensei.
+
+Giles continued to study under the tutelage of Roy Jerry Hobbs and was
+awarded the grade of shihan in Dentokan Jujutsu. Since leaving the
+Dentokan in 2013, Giles now concentrates on training in, and teaching,
+Daiwa Ryu jujutsu. 
+
+He has been invited to teach on seminars in the UK, as well as Berlin
+and Aurich in Germany and Athens, Greece.
+
+
+

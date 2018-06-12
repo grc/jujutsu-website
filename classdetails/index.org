@@ -1,0 +1,51 @@
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a>
+<p class="current-page"> Class details</p>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+* Directions to Warborough jujutsu club
+
+#+CAPTION: Greet Hall, Warborough, Oxfordshire
+#+LABEL:
+file:../images/greet_hall.jpg
+
+Jujutsu classes are held on Tuesday evenings from 7:30 p.m. to 9:30
+p.m. at the *Greet Hall*, Thame Road, Warborough, *OX10 7DH*.  Classes
+are run by [[file:giles.org][Giles Chamberlin]] and [[file:neil.org][Neil White]].
+
+** Travelling from the M40 and Stadhampton
+
+Turn off at Junction 7 and take the A329 to Stadhampton.  As you
+arrive in Stadhampton you will pass a petrol station on your left and
+the road turns sharply right.  At this bend, turn left signposted
+Warborough.  You're actually still on the A329, but it just got
+narrower!
+
+Continue on until you enter the outskirts of Warborough.  The Greet
+Hall is a barn like building on your right.  If you pass St Laurence
+church, you've gone too far.
+
+** Travelling from Reading
+Take the Oxford Road (A4074). After the petrol station and
+roundabout at Benson, the next roundabout you'll come to is at
+Shillingford.  Here, turn right (signposted Warborough).  The road
+makes a couple of right angle turns, then takes you through the
+village.  You'll pass a church on your right, the Greet Hall is the
+barn like building on your left, a couple of hundred yards later.
+
+** Travelling from Oxford
+
+Take the Reading Road (A4074). After Berinsfield, you'll come into
+Shillingford, passing the Kingfisher Pub on your right.  At the next
+roundabout, turn left (signposted Warborough).  The road makes a
+couple of right angle turns, then takes you through the village.
+You'll pass a church on your right, the Greet Hall is the barn like
+building on your left, a couple of hundred yards later.
+

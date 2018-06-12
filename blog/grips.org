@@ -1,0 +1,57 @@
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+
+* Grips
+
+Daiwa Ryu jujutsu, like many other jujutsu and aikido styles, has a number of 
+kata techniques applied from wrist grabs.  At first this seems incredibly
+artificial - just who in their right mind is going to grab your wrist as an 
+attack?
+
+As I've continued training, I have justified this to myself 
+in a number of different ways.  At first I assumed it was just a teaching tool, 
+learn how to apply the technique from a wrist grab, then move to alternative 
+attacks.  Then I thought these techniques might be an anachronism, left over 
+from when you might want to prevent an opponent drawing a sword, so hand control 
+was vital.  I have now come round to the opinion that these wrist grabs are actually 
+valid attacks in their own right.
+
+So what's changed my mind?  It's the way that you make that wrist grab that
+transforms it from an ineffective teaching tool to a genuine attack.  First 
+consider the grip itself.  If you look at the palm side of your hand whilst it 
+opens and closes, you'll notice that the little finger through to middle finger close 
+naturally against the base of the thumb.  The index finger closes against the 
+thumb.  It is this opposable thumb that gives us great manual dexterity, but it's 
+not what you're looking for when you try to grab onto someone.  The power of the
+grip comes from the last three fingers, tightened up from the little finger first.  
+Meanwhile the thumb and index finger remain loose and sensitive so that you can
+feel what's happening.
+
+Next consider where to grab.  In a typical cooperative training environment it
+is common to see the grip applied to the lower forearm of tori.  From here it is 
+incredibly difficult to affect your opponent's posture - all you can do is wait 
+passively for them to take the role of tori and apply their technique.  Instead 
+try gripping actually at the wrist - the narrowest part, between the hand and 
+forearm.  Unlike the mostly featureless cylinder of the forearm, there are lumps 
+and corners in the wrist that give you something to hold on to.  You are also 
+splinting the joint, reducing your opponent's freedom to move.  
+
+So you've now got a strong grip established on a grippable part of your opponent,
+a good start but still not a valid attack.  You need to use that point of contact
+to affect your opponent's balance.  Like any other techniques, as you explore
+pushing and pulling in different directions, you will find some that work better
+than others.  Too hard to describe in words here, the best advice is just to practice.
+
+Next time you grab someone's wrist, don't just passively wait for them to apply
+their technique, see what technique there is in that grab for you.
+

@@ -1,0 +1,37 @@
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
+<p class="current-page">Blog</p>
+</div>
+#+END_EXPORT
+
+
+* Neil White
+
+file:../images/neil.jpg
+
+Neil White was introduced to the martial arts, in
+1987, when he started training in Shukokai karate in Poole.
+ 
+In 1997, whilst studying for a Masters degree at the University of
+Kent, Neil started training in Shorin Ryu karate under the Dentokan
+association. Later that year he was awarded Shodan by Sensei Stephen
+Chan. Whilst attending a Dentokan karate seminar in Belfast in 1999 he
+was graded to Nidan by Sensei Roy Jerry Hobbs. He was then privileged
+to be invited by Sensei Chan to travel to Okinawa, in 2001, where he
+was awarded Sandan by Sensei Sian Toma.
+ 
+A chance encounter at a Dentokan karate and jujutsu seminar in Ipswich
+in 2005 introduced Neil to Sensei [[file:giles.org][Giles Chamberlin]]. Soon he was
+persuaded to supplement his karate with regular jujutsu training in
+Warborough. By 2011 Sensei Chamberlin had imparted sufficient
+knowledge for Neil to be awarded Nidan in Dentokan jujutsu.
+ 
+Neil continues to be bounced around the [[file:index.org][Warborough dojo]] by Sensei
+Chamberlin and is honoured to share some of the teaching duties.
+
