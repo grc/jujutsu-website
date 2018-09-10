@@ -13,7 +13,6 @@
 #+END_EXPORT
 
 
-
 * Jujutsu in Warborough
 
 file:images/kneeling_nihonage.jpg
@@ -28,7 +27,7 @@ modern judo and aikido.  It has many different styles or schools.
 Although each style emphasises different aspects, all share a number
 of features.  The style we practice, Daiwa Ryu jujutsu is described in
 this [[file:blog/traditional.org][blog]] entry.  In brief, it shares a common ancestor with Aikido
-and Hakko Ryu.
+and Hakko Ryu jujutsu.
 
 We are a small, enthusiastic group, some of whom have only recently
 started training in martial arts, others have been practising for

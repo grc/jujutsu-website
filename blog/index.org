@@ -19,19 +19,27 @@
 
 Sporadic musings on a martial arts related theme.
 
-- [[file:dentokan.org][Dentokan Jujutsu]] :: A brief history of Dentokan Jujutsu in the
-     UK
+** [[file:jigenryu.org][Jigen Ryu Seminar]]  
 
-- [[file:traditional.org][Daiwa Ryu Jujutsu --- a traditional martial art?]] :: How can a modern
-     martial art be described as traditional?
+Review of a four day Jigen Ryu seminar in Austria.
 
-- [[file:jujitsu.org][Jujutsu, jujitsu --- what's the difference?]] :: A brief explanation
-     of the proliferation of spellings for this martial art.
+**  [[file:dentokan.org][Dentokan Jujutsu]] 
+A brief history of Dentokan Jujutsu in the UK
 
-- [[file:itten_no_hi.org][Itten No Hi]] :: Concentrating on a single point of application.
+**  [[file:traditional.org][Daiwa Ryu Jujutsu --- a traditional martial art?]] 
+How can a modern martial art be described as traditional?
 
-- [[file:grips.org][Grips]] :: Why spend all that time grabbing someone's wrist? Isn't it
-           totally ineffective?
+**  [[file:jujitsu.org][Jujutsu, jujitsu --- what's the difference?]] 
+A brief explanation of the proliferation of spellings for this martial
+     art.
 
-- [[file:ukemi.org][Ukemi]] :: Some thoughts on receiving techniques.
+**  [[file:itten_no_hi.org][Itten No Hi]] 
+
+Concentrating on a single point of application.
+
+**  [[file:grips.org][Grips]] 
+Why spend all that time grabbing someone's wrist? Isn't it totally ineffective?
+
+**  [[file:ukemi.org][Ukemi]] 
+Some thoughts on receiving techniques.
 

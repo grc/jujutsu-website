@@ -1,16 +1,33 @@
-I recently had the chance to travel to Austria to train at the
-[[http://www.jigen-ryu.org/][Jigen Ryu]]  Gasshuku or summer camp.  I've been corresponding with
-Robert Reinberger, who heads the jujutsu section, for decades but
-never before met him so this was an excellent opportunity.
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+              
+
+#+BEGIN_EXPORT html
+<div class="menu">
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
+<a href='/blog/'>Blog</a>
+</div>
+#+END_EXPORT
+
+* A Jigen Ryu Seminar in Austria 
+
+
+
+In May 2018 I had the opportunity to travel to Austria to train at the
+[[http://www.jigen-ryu.org/][Jigen Ryu]] Gasshuku (summer camp).  I've been sporadically
+corresponding with Robert Reinberger, who heads the jujutsu section,
+for decades but never before met him so this was an excellent
+opportunity.
 
 Jigen Ryu, (慈眼流) not to be confused with the koryu Jigen Ryu (示現
 流) was founded by Harada sensei when he moved from Suffolk, UK to
 Austria around 1990.  He taught a group there until his death in 2006.
 In the UK, he and Tanaka Sensei had been teaching jujutsu to a [[file:dentokan.org][group]]
-of us under the Daiwa Ryu label.  This gasshuku presented me with an
+of us under the Daiwa Ryu label.  This gasshuku granted me the
 opportunity to see how the esoteric jujutsu of Harada sensei had
-eveolved over the years, as well as a chance to make some new
-friends.  
+evolved over the years --- or how I had diverged from it --- as well
+as a chance to make some new friends.
 
 Dragging myself out of bed in rural Oxfordshire at a stupidly early
 hour of the morning, I made my flight to Vienna where I was collected
@@ -20,6 +37,76 @@ historian of jujutsu; I learnt a great deal and would have learnt
 still more if not for that 4 a.m. start. 
 
 From my perspective the gasshuku had three main prongs: jujutsu,
-kenjutsu and social.  The social side was immediately apparent; this
+kenjutsu and social.   The social side was immediately apparent; this
 small group, perhaps fifteen or so, enthusiastically welcomed in a
-stranger who couldn't speak their language and who's attempts 
+stranger who couldn't speak their language and who's attempts at doing
+so sounded like something out of /Allo, Allo/.  Decades old school boy
+German, combined with the Austrian dialect, is not a recipe for easy
+communication.  Despite that we had a lot of good conversations on a
+range of subjects from Jujutsu to Quantum Physics. Quite how the
+latter arose I am unsure, but beer was involved.  The venue, a guest
+house run by the Krautwurst family on a farm in Ottenschlag,
+contributed to the communal feel, as did the large quantities of home
+cooked food, and a self administered bar tab.
+
+file:../images/social.jpg
+
+The kenjutsu we practised was Eishin Ryu Batto Ho.  These techniques,
+like the Toyama Ryu practised in Warborough, was a twentieth century
+creation designed to teach basic sword techniques to military
+personnel in a short period of time.  Sufficiently different to Toyama
+Ryu to be confusing, I none the less managed to get a crude grasp of
+the first four kata under Robert's vigilant tutelage.  As well as the
+kenjutsu, there were a couple of sessions of tameshigiri, practice
+cutting.  
+
+file:../images/bottlecutting.png
+
+The first was a fairly lighthearted affair.  In the farmyard outside
+ our guesthouse we cut water filled plastic bottles that our hosts had
+ been stockpiling for the previous year.  If you were accurate with
+ your blade angle, the bottles cut fairly easily; off a bit and they
+ bounced away, possibly soaking you in the process.  The remains were
+ then dutifully gathered and bagged up for recycling.  
+
+file:../images/tameshigiri.png
+
+The second
+ session was somewhat more serious in feel, cutting reed bundles in
+ the dojo.   These had more resistance
+ and required better technique. Although I succeeded with my cuts, I
+ was aware that I was concentrating hard and that the reed bundles
+ were neither trying to avoid my cuts nor to attack me back.  Thinking
+ back to the intensity of the Hyoho Nitten Ichi Ryu demonstration that
+ Scott and Kieren performed in Warborough a few years ago, I can now
+ begin to understand how that contributes to the ability to maintain
+ that focus under such conditions.
+
+file:../images/makikomi.png 
+
+The jujutsu was highly reminiscent of Harada sensei's approach.  Lots
+of emphasis on tiny manipulations to seemingly effortlessly apply a
+technique.  The frustration of trying to get this relaxed approach
+brought back similar memories from a cold hall at the Shitenoji School
+in Suffolk.  I think the disparity between our two approaches is down
+to a number of things.  I only trained with Harada sensei for a short
+time, a couple of decades ago.  I think at that that stage I was far
+from ready for some of the subtlety he was striving to show us.  I was
+also training with Tanaka sense who's jujutsu, though still very
+subtle, placed more emphahsis on some exquisitely painful locks than
+Harada's. When, very flatteringly, I was asked to teach several slots
+during the weekend.  I chose to demonstrate some of the locks that
+Tanaka sensei had shown us; starting with the vanilla Hakko Ryu
+version, then showing the added tweaks.  
+ 
+Being exposed again to Harada sensei's approach has rekindled my
+interest.  Since then we've had a few bemused sessions at the
+[[file:../classdetails/index.org][Warborough dojo]] as a haltingly tried to explain what I was looking
+for.  Many more years of work lie ahead of me I think.
+
+I'd like to thank my hosts, and in particular Robert Reinberger, for a
+fantastic few days training, great patience with a newcomer to their
+group and a wonderful welcome.  
+
+
+
