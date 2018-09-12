@@ -6,7 +6,7 @@
 <div class="menu">
 <a href='/'>Home</a>
 <a href='/classdetails/'> Class details</a>
-<p class="current-page">Blog</p>
+<a href= '/blog/'> Blog</a>
 </div>
 #+END_EXPORT
 
