@@ -74,3 +74,11 @@ body
 
 }
 
+
+
+#postamble
+{
+    font-size: 0.5em;
+    margin-top: 5em;
+    text-align: right;
+}

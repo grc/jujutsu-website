@@ -1,5 +1,4 @@
-#+TITLE: Warborough Jujutsu Club
-#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+#+TITLE: Itten no hi
 
 
 #+BEGIN_EXPORT html

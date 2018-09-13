@@ -1,6 +1,4 @@
-#+TITLE: Warborough Jujutsu Club
-#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-
+#+TITLE: Ukemi - the art of receiving a technique
 
 #+BEGIN_EXPORT html
 <div class="menu">

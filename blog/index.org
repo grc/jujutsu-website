@@ -1,5 +1,5 @@
-#+TITLE: Warborough Jujutsu Club
-#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+#+TITLE: Jujutsu blog
+
 
 
 #+BEGIN_EXPORT html
