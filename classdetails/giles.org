@@ -1,4 +1,5 @@
-#+TITLE: Giles Chamberlin
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 
 
 #+BEGIN_EXPORT html

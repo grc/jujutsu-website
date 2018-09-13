@@ -1,4 +1,5 @@
-#+TITLE: A history of Daiwa Ryu, Dentokan  and Hakko Ryu jujutsu in the UK
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
               
 
 #+BEGIN_EXPORT html

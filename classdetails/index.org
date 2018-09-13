@@ -1,4 +1,5 @@
-#+TITLE: Warborough Jujutsu Club class details
+#+TITLE: Warborough Jujutsu Club
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 
 
 #+BEGIN_EXPORT html
@@ -9,7 +10,7 @@
 </div>
 #+END_EXPORT
 
-* Warborough jujutsu club - location and times
+* Directions to Warborough jujutsu club
 
 #+CAPTION: Greet Hall, Warborough, Oxfordshire
 #+LABEL:
