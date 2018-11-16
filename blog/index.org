@@ -7,6 +7,7 @@
 <a href='/'>Home</a>
 <a href='/classdetails/'> Class details</a>
 <p class="current-page">Blog</p>
+<a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
 
