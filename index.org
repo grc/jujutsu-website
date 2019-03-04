@@ -4,6 +4,7 @@
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 
 
+
 #+BEGIN_EXPORT html
 <div class="menu">
 <p class="current-page">Home</p>
@@ -33,9 +34,9 @@ and Hakko Ryu jujutsu.
 We are a small, enthusiastic group, some of whom have only recently
 started training in martial arts, others have been practising for
 decades.  All abilities are welcomed, but adults only.  This
-particular style of jujutsu is not suitable for children.  For
-those under eighteen I can recommend the [[http://www.iinkai-judo.co.uk/][Inkai Judo clubs]] --- my son
-trains with them!
+particular style of jujutsu is not suitable for children.  For those
+under eighteen I can recommend the [[http://www.iinkai-judo.co.uk/][Inkai Judo clubs]] --- my son used to
+train with them!
 
 
 There are no specific beginner classes, just come along to one of our
