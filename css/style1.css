@@ -1,4 +1,8 @@
-
+#postamble p {
+    text-align:right;
+    font-size:0.7em;
+    foreground-color:grey;
+}
 
 
 .figure {
