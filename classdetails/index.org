@@ -1,6 +1,6 @@
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Warborough Jujutsu (Jujitsu) Club  location and times
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-
+#+DESCRIPTION: Details of where and when the Warborough jujutsu (jujitsu) club trains.  We are about six miles south of Oxford, UK.
 
 #+BEGIN_EXPORT html
 <div class="menu">

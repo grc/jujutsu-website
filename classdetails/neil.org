@@ -1,6 +1,6 @@
 #+TITLE: Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-
+#+DESCRIPTION: Brief martial arts biography for Neil White
 
 #+BEGIN_EXPORT html
 <div class="menu">
