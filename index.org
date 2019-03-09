@@ -19,8 +19,8 @@
 
 file:images/kneeling_nihonage.jpg
 
-Warborough Jujutsu Club is a martial arts club practicing a
-traditional Japanese martial art in the village of Warborough. We are
+Warborough Jujutsu Club is a martial arts club practising a
+[[file:blog/traditional.org][traditional]] Japanese martial art in the village of Warborough. We are
 a few miles south of Oxford, just outside Wallingford - See these
 [[file:classdetails/index.org][details]] for information on how to find the Warborough Jujutsu class.
 
