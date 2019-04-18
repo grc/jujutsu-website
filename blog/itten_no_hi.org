@@ -1,19 +1,27 @@
 #+TITLE: Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-
+#+HTML_HEAD_EXTRA: <title>Itten no hi: a jujutsu principle</title>
 
 #+BEGIN_EXPORT html
 <div class="menu">
 <a href='/'>Home</a>
 <a href='/classdetails/'> Class details</a>
-<p class="current-page">Blog</p>
+<a href='/blog/'>Blog</a>
+<a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
 
 
-* Itten no hi
+# itten:  一点
+# no: の
+# hi: 秘 (secret)
 
-Itten no hi is the name given to the principle of applying a
+#      一点 の 秘
+
+* Itten no hi: a jujutsu principle
+
+
+Itten no hi ( 一点 の 秘 ) is the name given to the principle of applying a
 technique with an emphasis on a single point.  That's as clear as mud.
 What does it mean?
 

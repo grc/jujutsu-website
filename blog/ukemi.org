@@ -1,17 +1,20 @@
 #+TITLE: Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-
+#+HTML_HEAD_EXTRA: <title>Ukemi, the art of receiving a technique</title>
+#+DESCRIPTION: Reflections on what it means to be uke, and how to practice martial arts with a partner. 
 
 #+BEGIN_EXPORT html
 <div class="menu">
-<a href='/'>Home</a><br>
-<a href='/classdetails/'> Class details</a><br>
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
 <a href='/blog/'>Blog</a>
+<a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
 
 
-* Ukemi --- the art of receiving a technique
+
+* Ukemi - receiving a technique
 
 #+CAPTION:Demo at Oxford University: Chas throws Giles
 file:../images/kotegaeshi.jpg"  

@@ -1,9 +1,9 @@
 
 
-#+TITLE: Warborough Jujutsu (Jujitsu) Club
+#+TITLE: Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+DESCRIPTION: Warborough jujutsu (jujitsu) club is a traditional martial arts club near Oxford and Wallingford, UK..
-
+#+HTML_HEAD_EXTRA: <title>Warborough Jujutsu, Jujitsu, martial arts club near Oxford, UK</title>
 
 #+BEGIN_EXPORT html
 <div class="menu">
@@ -13,6 +13,7 @@
 <a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
+
 
 
 * Jujutsu in Warborough
@@ -47,14 +48,16 @@ clubs]] --- my son used to train with them!
 
 
 There are no specific beginner classes, just come along to one of our
-regular Tuesday night sessions.  Wear something comfortable and soft,
-a T shirt and tracksuit bottoms is fine.  If you have kit from another
-martial art, that is fine to wear too.  Your first class is free, so
-that you can get a feel for what it is that we do.  From then on
-sessions are £5.00 for a two hour class.  
+regular Tuesday night sessions.  Wear something comfortable that you
+can move easily in, a T shirt and tracksuit bottoms is fine.  If you
+have kit from another martial art, that is fine to wear too.  Your
+first class is free, so that you can get a feel for what it is that we
+do.  From then on sessions are £5.00 for a two hour class.
 
 If you're intending to visit I'd suggest that you drop an email to
 [[mailto:giles@jujutsu.org.uk][giles@jujutsu.org.uk]]. Work commitments occasionally mean that we have
 to cancel the class as there is no instructor available.
+
+
 
 

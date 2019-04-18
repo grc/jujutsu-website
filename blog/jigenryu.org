@@ -1,5 +1,6 @@
 #+TITLE: Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+#+HTML_HEAD_EXTRA: <title>Jigen Ryu: a review of a seminar in Austria, 2018</title>
               
 
 #+BEGIN_EXPORT html
@@ -7,11 +8,12 @@
 <a href='/'>Home</a>
 <a href='/classdetails/'> Class details</a>
 <a href='/blog/'>Blog</a>
+<a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
 
-* A Jigen Ryu Seminar in Austria 
 
+* A Jigen Ryu Seminar in Austria 
 
 
 In May 2018 I had the opportunity to travel to Austria to train at the

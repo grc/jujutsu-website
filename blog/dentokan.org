@@ -1,20 +1,19 @@
-#+TITLE: Warborough Jujutsu Club
+#+TITLE:  Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-              
-
+#+HTML_HEAD_EXTRA: <title>Daiwa Ryu, Dentokan and Hakko Ryu jujutsu in the UK </title>              
+#+DESCRIPTION: A personal view of the history of these martial arts in the UK. 
 #+BEGIN_EXPORT html
 <div class="menu">
 <a href='/'>Home</a>
 <a href='/classdetails/'> Class details</a>
 <a href='/blog/'>Blog</a>
+<a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
 
-
-
 * A history of Daiwa Ryu, Dentokan  and Hakko Ryu jujutsu in the UK
 
- In about 1984, Roy Jerry Hobbs moved to Suffolk as his
+In about 1984, Roy Jerry Hobbs moved to Suffolk as his
 latest posting with the United States Air Force.  Before that he had
 been posted in Japan where he had pursued his passion for martial arts
 with vigour.  As a result of this he had been awarded the grade of
@@ -56,7 +55,7 @@ techniques of Hakko Ryu jujutsu, with a strong influence from Daiwa
 Ryu.
 
 
-In 2013 I parted ways amicably with the Dentokan; the route they were
+In 2013 I amicably parted ways with the Dentokan; the route they were
 following was different to the one I was on and by then I was Dentokan
 in name only.  I'm now teaching Daiwa Ryu in [[file:../classdetails/index.org][Warborough, Oxfordshire]].
 

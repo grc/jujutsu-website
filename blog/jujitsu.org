@@ -1,19 +1,20 @@
 #+TITLE: Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-
-
+#+HTML_HEAD_EXTRA: <title>Jujutsu, Jujitsu, jiu jitsu  - what's the difference?</title>
+#+DESCRIPTION: An explanation of the many different ways of spelling 'jujitsu'.
 #+BEGIN_EXPORT html
 
 <div class="menu">
-<a href='/'>Home</a><br>
-<a href='/classdetails/'> Class details</a><br>
+<a href='/'>Home</a>
+<a href='/classdetails/'> Class details</a>
 <a href='/blog/'>Blog</a>
+<a href='/kata/'>Technique list</a>
 </div>
 #+END_EXPORT
 
 
-
 * Jujutsu, Jujitsu - what's the difference?
+
 
 Jujutsu, jujitsu, jiu jitsu --- there's a wide range of spellings
 used to describe this Japanese martial art.  The problem is that, in
@@ -34,14 +35,15 @@ As a quick check to see how common the various spellings are, I
 used Google to count the number of occurrences of
 each on the web.  As of 28 Nov 2002, the figures were:
 
-|-----------+--------|
-| jiu jutsu | 94,300 |
-| jujitsu   | 81,000 |
-| ju jitsu  | 52,900 |
-| ju jutsu  | 51,700 |
-| jujutsu   | 51,300 |
-| jiujutsu  | 11,600 |
-|-----------+--------|
+|           | 2002   | 2019 |
+|-----------+--------+------|
+| jiu jutsu | 94,300 |      |
+| jujitsu   | 81,000 |      |
+| ju jitsu  | 52,900 |      |
+| ju jutsu  | 51,700 |      |
+| jujutsu   | 51,300 |      |
+| jiujutsu  | 11,600 |      |
+|-----------+--------+------|
 
 
 So there is no obvious agreement on either the spelling or where the
