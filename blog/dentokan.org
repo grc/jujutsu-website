@@ -2,13 +2,14 @@
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+HTML_HEAD_EXTRA: <title>Daiwa Ryu, Dentokan and Hakko Ryu jujutsu in the UK </title>              
 #+DESCRIPTION: A personal view of the history of these martial arts in the UK. 
+
 #+BEGIN_EXPORT html
-<div class="menu">
-<a href='/'>Home</a>
-<a href='/classdetails/'> Class details</a>
-<a href='/blog/'>Blog</a>
-<a href='/kata/'>Technique list</a>
-</div>
+<ul class="menu">
+<li><a href='/'>Home</a></li>
+<li><a href='/classdetails/'>Class details</a></li>
+<li><a href='/blog/'>Blog</a></li>
+<li><a href='/kata/'>Technique list</a></li>
+</ul>
 #+END_EXPORT
 
 * A history of Daiwa Ryu, Dentokan  and Hakko Ryu jujutsu in the UK

@@ -3,13 +3,14 @@
 #+HTML_HEAD_EXTRA: <title>Jigen Ryu: a review of a seminar in Austria, 2018</title>
               
 
+
 #+BEGIN_EXPORT html
-<div class="menu">
-<a href='/'>Home</a>
-<a href='/classdetails/'> Class details</a>
-<a href='/blog/'>Blog</a>
-<a href='/kata/'>Technique list</a>
-</div>
+<ul class="menu">
+<li><a href='/'>Home</a></li>
+<li><a href='/classdetails/'>Class details</a></li>
+<li><a href='/blog/'>Blog</a></li>
+<li><a href='/kata/'>Technique list</a></li>
+</ul>
 #+END_EXPORT
 
 

@@ -4,13 +4,14 @@
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+DESCRIPTION: Musings on a martial arts related theme
 #+HTML_HEAD_EXTRA: <title>Giles' martial arts blog</title>
+
 #+BEGIN_EXPORT html
-<div class="menu">
-<a href='/'>Home</a>
-<a href='/classdetails/'> Class details</a>
-<p class="current-page">Blog</p>
-<a href='/kata/'>Technique list</a>
-</div>
+<ul class="menu">
+<li><a href='/'>Home</a></li>
+<li><a href='/classdetails/'>Class details</a></li>
+<li><p>Blog</p></li>
+<li><a href='/kata/'>Technique list</a></li>
+</ul>
 #+END_EXPORT
 
 

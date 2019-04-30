@@ -5,15 +5,15 @@
 #+DESCRIPTION: Warborough jujutsu (jujitsu) club is a traditional martial arts club near Oxford and Wallingford, UK..
 #+HTML_HEAD_EXTRA: <title>Warborough Jujutsu, Jujitsu, martial arts club near Oxford, UK</title>
 
-#+BEGIN_EXPORT html
-<div class="menu">
-<p class="current-page">Home</p>
-<a href='/classdetails/'>Class details</a>
-<a href='/blog/'>Blog</a>
-<a href='/kata/'>Technique list</a>
-</div>
-#+END_EXPORT
 
+#+BEGIN_EXPORT html
+<ul class="menu">
+<li>Home</li>
+<li><a href='/classdetails/'>Class details</a></li>
+<li><a href='/blog/'>Blog</a></li>
+<li><a href='/kata/'>Technique list</a></li>
+</ul>
+#+END_EXPORT
 
 
 * Jujutsu in Warborough
