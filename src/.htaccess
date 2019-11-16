@@ -1,0 +1,17 @@
+RewriteEngine on
+
+RewriteRule ^.*classdetails/warborough.*$ /classdetails/index.html
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
+
+
+RedirectMatch "(.*)/articles/(.*)" "$1/blog/$2"
+
+
+Header always set X-Xss-Protection "1; mode=block"
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set Content-Security-Policy "script-src 'self' code.jquery.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com;"

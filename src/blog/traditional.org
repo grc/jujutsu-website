@@ -1,21 +1,8 @@
 # Originally written on Grand Cayman, as the sun goes down, 2004
 
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Daiwa Ryu Jujutsu: a traditional martial art?
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
-#+HTML_HEAD_EXTRA: <title>Is Daiwa Ryu a traditional martial art?</title>
 #+DESCRIPTION: Why do I refer to Daiwa Ryu as a traditional martial art when it is so comparatively new?
-
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li><a href='/'>Home</a></li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><a href='/blog/'>Blog</a></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
-
-*  Daiwa Ryu Jujutsu: a traditional martial art?
-
 
 I often refer to Daiwa Ryu Jujutsu as a traditional martial art.  But
 it was founded in 1979 --- barely three decades old.  So how can I

@@ -1,18 +1,7 @@
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Jujutsu Grips
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+HTML_HEAD_EXTRA: <title>Jujutsu grips</title>
 #+DESCRIPTION: Why do martial arts like jujutsu and aikido spend so much time practicing wrist grabs?
-
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li><a href='/'>Home</a></li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><a href='/blog/'>Blog</a></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
-
-* Jujutsu Grips
 
 Daiwa Ryu jujutsu, like many other jujutsu and aikido styles, has a number of 
 kata techniques applied from wrist grabs.  At first this seems incredibly
