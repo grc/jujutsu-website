@@ -1,20 +1,8 @@
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: A Jigen Ryu Seminar in Austria 
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+HTML_HEAD_EXTRA: <title>Jigen Ryu: a review of a seminar in Austria, 2018</title>
               
 
-
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li><a href='/'>Home</a></li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><a href='/blog/'>Blog</a></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
-
-
-* A Jigen Ryu Seminar in Austria 
 
 
 In May 2018 I had the opportunity to travel to Austria to train at the
@@ -52,6 +40,7 @@ house run by the Krautwurst family on a farm in Ottenschlag,
 contributed to the communal feel, as did the large quantities of home
 cooked food, and a self administered bar tab.
 
+#+ATTR_HTML: :class  img rounded float-right m-3
 file:../images/social.jpg
 
 The kenjutsu we practised was Eishin Ryu Batto Ho.  These techniques,
@@ -63,6 +52,7 @@ the first four kata under Robert's vigilant tutelage.  As well as the
 kenjutsu, there were a couple of sessions of tameshigiri, practice
 cutting.  
 
+#+ATTR_HTML: :class  img rounded float-right m-3
 file:../images/bottlecutting.png
 
 The first was a fairly lighthearted affair.  In the farmyard outside
@@ -72,6 +62,7 @@ The first was a fairly lighthearted affair.  In the farmyard outside
  bounced away, possibly soaking you in the process.  The remains were
  then dutifully gathered and bagged up for recycling.  
 
+#+ATTR_HTML: :class  img rounded float-right m-3
 file:../images/tameshigiri.png
 
 The second
@@ -85,6 +76,7 @@ The second
  begin to understand how that contributes to the ability to maintain
  that focus under such conditions.
 
+#+ATTR_HTML: :class  img rounded float-right m-3
 file:../images/makikomi.png 
 
 The jujutsu was highly reminiscent of Harada sensei's approach.  Lots

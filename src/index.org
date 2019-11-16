@@ -1,24 +1,9 @@
-
-
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Jujutsu in Warborough 
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+DESCRIPTION: Warborough jujutsu (jujitsu) club is a traditional martial arts club near Oxford and Wallingford, UK..
-#+HTML_HEAD_EXTRA: <title>Warborough Jujutsu, Jujitsu, martial arts club near Oxford, UK</title>
 
-
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li>Home</li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><a href='/blog/'>Blog</a></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
-
-
-* Jujutsu in Warborough
-
-file:images/kneeling_nihonage.jpg
+#+ATTR_HTML: :class  img rounded float-right m-3
+[[file:images/kneeling_nihonage.jpg]]
 
 Warborough Jujutsu Club is a martial arts club practising a
 [[file:blog/traditional.org][traditional]] Japanese martial art in the village of Warborough. We are
@@ -41,7 +26,7 @@ Jitsu (BJJ), may be very different in training approach and appearance.
 We are a small, enthusiastic group, some of whom have only recently
 started training in martial arts, others have been practising for
 decades.  All abilities are welcomed, but adults only.  You don't need
-to be particularly for or flexible, just interested in trying
+to be particularly fit or flexible, just interested in trying
 something new.  This particular style of jujutsu is not suitable for
 children.  For those under eighteen I can recommend the [[http://www.iinkai-judo.co.uk/][Inkai Judo
 clubs]] --- my son used to train with them!

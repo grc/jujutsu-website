@@ -1,20 +1,9 @@
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Giles Chamberlin: instructor at Warborough Jujutsu Club
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+DESCRIPTION: Brief martials arts biography for Giles Chamberlin
-#+HTML_HEAD_EXTRA: <title>Giles Chamberlin, Chief Instructor at Warborough Jujustu club</title>
-
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li><a href='/'>Home</a></li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><a href='/blog/'>Blog</a></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
 
 
-* Giles Chamberlin: instructor at Warborough Jujutsu Club
-
+#+ATTR_HTML: :class  img rounded float-right m-3
 [[file:../images/giles.jpg]]
 
 Giles Chamberlin is the chief instructor of the Warborough jujutsu

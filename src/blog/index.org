@@ -1,24 +1,9 @@
-
-
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Giles' jujutsu blog
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+DESCRIPTION: Musings on a martial arts related theme
 #+HTML_HEAD_EXTRA: <title>Giles' martial arts blog</title>
 
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li><a href='/'>Home</a></li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><p>Blog</p></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
-
-
-
-* Giles' jujutsu blog
-
-
+#+ATTR_HTML: :class  img rounded float-right m-3
 [[file:../images/kneeling_nidan.jpg]]
 
 Sporadic musings on a martial arts related theme.

@@ -1,15 +1,6 @@
-#+TITLE: Warborough Jujutsu Club
+#+TITLE: Itten no hi: a jujutsu principle
 #+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
 #+HTML_HEAD_EXTRA: <title>Itten no hi: a jujutsu principle</title>
-
-#+BEGIN_EXPORT html
-<ul class="menu">
-<li><a href='/'>Home</a></li>
-<li><a href='/classdetails/'>Class details</a></li>
-<li><a href='/blog/'>Blog</a></li>
-<li><a href='/kata/'>Technique list</a></li>
-</ul>
-#+END_EXPORT
 
 
 # itten:  一点
@@ -18,7 +9,7 @@
 
 #      一点 の 秘
 
-* Itten no hi: a jujutsu principle
+* 
 
 
 Itten no hi ( 一点 の 秘 ) is the name given to the principle of applying a
