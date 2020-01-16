@@ -1,0 +1,76 @@
+
+#+TITLE: Daiwa Ryu Ni  dangi waza
+#+DATE: 
+#+AUTHOR:  Giles Chamberlin
+#+DESCRIPTION: https://www.youtube.com/channel/UCmOoLcPgrBcZjPZQiTpaygA
+
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t ^:nil
+#+EXCLUDE_TAGS: noexport
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+OPTIONS: texht:t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt]
+#+LATEX_HEADER_EXTRA: \usepackage{fontspec} \defaultfontfeatures{Ligatures=TeX} \setmainfont{Calibri}
+#+LATEX_HEADER_EXTRA: \usepackage{microtype} \usepackage{parskip}
+#+LATEX_HEADER_EXTRA: \usepackage{fancyhdr} \usepackage{lastpage} \usepackage[top=1cm]{geometry}
+#+LATEX_HEADER_EXTRA: \pagestyle{fancy} \cfoot{\small Page~\thepage~of~ \pageref{LastPage}}
+#+LATEX_HEADER_EXTRA: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER_EXTRA: \renewcommand{\bfdefault}{b}
+#+LATEX: \maketitle \thispagestyle{fancy}
+
+* Suwari waza (Sitting techniques)
+
+
+- Matsuba Dori :: Pine needle art
+
+- Tekagami :: Hand mirror
+
+- Ude Osae Dori :: Arm pin art
+
+- Mune Osae Dori :: Chest pin art
+
+- Uchi Komi Dori :: Strike inside art
+
+- Konoha Gaeshi :: Leaf turnover
+
+- Aya Dori :: Woven cloth art
+
+
+* Hantachi Waza  Half standing techniques
+
+
+- Hantachi Mae Dori :: Half standing front art
+
+* Tachi Waza Standing Techniques
+
+
+- Maki Komi :: Winding inside
+
+- Tachi Tekagami :: Standing hand mirror
+
+- Shuto Jime :: Sword hand lock
+
+- Ryo Shuto Jime :: Both sword hand lock
+
+- Ude Osae Dori :: Arm pin art
+
+- Mune Osae Dori :: Chest pin art
+
+- Ryo Ude Osae Dori :: Both arm pin art
+
+- Ryo Mune Osae Dori :: Both chest pin art
+
+- Mune Konoha Gaeshi :: Chest leaf turnover
+
+- Katate Osae Aya Dori :: One hand pin woven cloth art
+
+- Uchi Komi Dori :: Strike inside art
+
+- Mae Niho Nage :: Front two way throw
+
+- Ushiro Niho Nage :: Rear two way throw
+

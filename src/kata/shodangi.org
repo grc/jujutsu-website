@@ -1,0 +1,63 @@
+#+TITLE: Daiwa Ryu Shodangi waza
+#+DATE: 
+#+AUTHOR:  Giles Chamberlin
+#+DESCRIPTION: https://www.youtube.com/channel/UCmOoLcPgrBcZjPZQiTpaygA
+
+#+OPTIONS: ':t *:t | :t  | t <:t H:3 \n:nil ^:t arch:headline |
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t ^:nil
+#+EXCLUDE_TAGS: noexport
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+OPTIONS: texht:t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt]
+#+LATEX_HEADER_EXTRA: \usepackage{fontspec} \defaultfontfeatures{Ligatures=TeX} \setmainfont{Calibri}
+#+LATEX_HEADER_EXTRA: \usepackage{microtype} \usepackage{parskip}
+#+LATEX_HEADER_EXTRA: \usepackage{fancyhdr} \usepackage{lastpage} \usepackage[top=1cm]{geometry}
+#+LATEX_HEADER_EXTRA: \pagestyle{fancy} \cfoot{\small Page~\thepage~of~ \pageref{LastPage}}
+#+LATEX_HEADER_EXTRA: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER_EXTRA: \renewcommand{\bfdefault}{b}
+#+LATEX: \maketitle \thispagestyle{fancy}
+
+
+* Suwari waza (Sitting techniques)
+
+#+ATTR_HTML: :width 300
+| Aiki Dori      | Eighth Light Art        |
+| Tekagami       | Hand Mirror             |
+| Aiki Nage      | Harmonious spirit throw |
+| Hiza Gatame    | Knee hold               |
+| Ude Osae Dori  | Arm pin art             |
+| Mune Osae Dori | Chest pin art           |
+| Uchi Komi Dori | Strike inside art       |
+
+
+
+* Hantachi Waza (Half standing techniques)
+
+
+|  Yoko Katate Osaea Dori  |  Side one hand pin art |
+
+
+* Isu Suwari Waza (Chair Sitting Techniques)
+
+
+| Kiza Morote Osaea Dori | Chair two hand pin art |
+
+* Tachi Waza ( Standing Techniques)
+
+| Aiki Zeme               | Eighth Light Attack       |
+| Tachi Ate               | Standing strike           |
+| Tachi Tekagami          | Standing hand mirror      |
+| Hiki Nage               | Pull throw                |
+| Ude Osae Dori           | Arm pin art               |
+| Mune Osae Dori          | Chest pin art             |
+| Ryo Ude Osae Dori       | Both arm pin art          |
+| Ryo Mune Osae Dori      | Both chest pin art        |
+| Uchi Komi Dori          | Strike inside art         |
+| Ushiro Zeme Otoshi      | Rear attack drop          |
+| Kasa Ushiro Zeme Otoshi | Umbrella rear attack drop |
+| Kubi Shime Dori         | Neck strangulation        |
+

@@ -1,0 +1,89 @@
+#+TITLE: Daiwa Ryu Yondangi kata
+#+DATE: 
+#+AUTHOR:  Giles Chamberlin
+#+DESCRIPTION: https://www.youtube.com/channel/UCmOoLcPgrBcZjPZQiTpaygA
+
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t ^:nil
+#+EXCLUDE_TAGS: noexport
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+OPTIONS: texht:t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt]
+#+LATEX_HEADER_EXTRA: \usepackage{fontspec} \defaultfontfeatures{Ligatures=TeX} \setmainfont{Calibri}
+#+LATEX_HEADER_EXTRA: \usepackage{microtype} \usepackage{parskip}
+#+LATEX_HEADER_EXTRA: \usepackage{fancyhdr} \usepackage{lastpage} \usepackage[top=1cm]{geometry}
+#+LATEX_HEADER_EXTRA: \pagestyle{fancy} \cfoot{\small Page~\thepage~of~ \pageref{LastPage}}
+#+LATEX_HEADER_EXTRA: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER_EXTRA: \renewcommand{\bfdefault}{b}
+#+LATEX: \maketitle \thispagestyle{fancy}
+
+
+
+
+
+
+* Suwari waza
+
+
+
+- Mune Osae Dori :: Chest pin art
+
+
+- Ude Dori :: Arm art
+
+
+- Emon Dori :: Clothing crest art
+
+
+- Tekagami :: Hand mirror
+
+
+* Hantachi Waza
+
+
+- Yoko Dori :: Side art
+
+
+- Yoko Ninin Dori :: Side two person art 
+
+
+* Tachi Waza
+
+
+- Mune dori :: Chest art
+
+
+- Ushiro zeme dori :: rear attack art
+
+
+- Ushiro aiki dori :: rear eighth light art
+
+
+- Uchi Komi Dori :: Strike  art
+
+
+- Yokomen Uchi Dori :: Side of head strike  art
+
+
+- Oikake dori :: Chase art
+
+
+- Heiko Dori :: parallel art
+
+
+- Kotegaeshi :: wrist turnover
+
+
+- Hakujin/Shiroha Dori :: White edge of sword art
+
+
+- (A) bato/joto nuki uchi dori :: length of blade draw out art
+
+
+- (B) shoto tsuki komi dori :: short sword thrust art
+
+

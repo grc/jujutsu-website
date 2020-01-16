@@ -1,0 +1,22 @@
+#+TITLE: Jujutsu Kata
+#+SUBTITLE: A traditional martial arts club in Oxfordshire, UK.
+#+DESCRIPTION: Formal technique syllabus for the Warborough jujutsu (jujitsu) club.
+
+Daiwa Ryu jujutsu, like many traditional Japanese martial arts, is
+taught in part through the repetition of a series of preset
+techniques.  This is the martial art equivalent of practising your
+musical scales; it's not designed to be a realistic application of the
+technique, but instead to commit the details to muscle memory.  
+
+The technique lists presented here are intended as a memory jogger for
+existing students.  You won't be able to lean jujutsu just be reading
+them!  They are published as PDF files for ease of reference during
+training sessions.
+
+** Daiwa Ryu Waza
+- [[file:shodangi.org ]]
+- [[file:nidangi.org]]
+- [[file:sandangi.org]]
+- [[file:yondangi.org]]
+
+
