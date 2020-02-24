@@ -1,0 +1,77 @@
+#+title: Daiwa Ryu Sandangi waza
+#+DATE: 
+#+AUTHOR:  Giles Chamberlin
+#+DESCRIPTION: https://www.youtube.com/channel/UCmOoLcPgrBcZjPZQiTpaygA
+
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t ^:nil
+#+EXCLUDE_TAGS: noexport
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+OPTIONS: texht:t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper, 11pt]
+#+LATEX_HEADER_EXTRA: \usepackage{fontspec} \defaultfontfeatures{Ligatures=TeX} \setmainfont{Calibri}
+#+LATEX_HEADER_EXTRA: \usepackage{microtype} \usepackage{parskip}
+#+LATEX_HEADER_EXTRA: \usepackage{fancyhdr} \usepackage{lastpage} \usepackage[top=1cm]{geometry}
+#+LATEX_HEADER_EXTRA: \pagestyle{fancy} \cfoot{\small Page~\thepage~of~ \pageref{LastPage}}
+#+LATEX_HEADER_EXTRA: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER_EXTRA: \renewcommand{\bfdefault}{b}
+#+LATEX: \maketitle \thispagestyle{fancy}
+
+* Suwari waza  Sitting techniques
+
+
+- Ude Osae Dori :: Arm pin art
+
+- Mune Osae Dori :: Chest pin art
+
+- Uchi Komi Dori :: Strike inside art
+
+- Tekagami :: Hand mirror
+
+- Aya dori :: Woven cloth art
+
+
+* Hantachi Waza Half standing techniques
+
+
+- Yoko Dori :: Side art
+
+- Morote osae dori :: two hand pin art
+
+- Ushiro gyaku kubi shime dori :: rear reverse neck strangulation art
+
+* Tachi Waza Standing Techniques
+
+
+- Ryo mune osae dori :: both chest pin art
+
+- Emon dori :: Clothing crest art
+
+- Tachi Tekagami :: Standing hand mirror
+
+- Uchi Komi Dori :: Strike inside art
+
+- Tsuki mi dori :: Thrust to body art
+
+- Kata mune osae mochi mawari :: One chest pin lead around
+
+- Ryote mochi mawari :: Both hand lead around
+
+- Ushiro zeme dori :: rear attack art
+
+- Ushiro emon dori :: rear clothing crest art
+
+- Mae obi hiki dori :: Front belt pull art
+
+- Ushiro obi hiki dori :: Rear belt pull art
+
+- Nuke uchi dori :: Draw out strike art
+
+- Tsuki komi dori :: thrust inside art
+
+- Ushiro hakko dori :: rear eighth light art
+
